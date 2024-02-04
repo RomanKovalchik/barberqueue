@@ -1,0 +1,14 @@
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\bin\Debug\net8.0\BarberProblem.exe
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\bin\Debug\net8.0\BarberProblem.deps.json
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\bin\Debug\net8.0\BarberProblem.runtimeconfig.json
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\bin\Debug\net8.0\BarberProblem.dll
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\bin\Debug\net8.0\BarberProblem.pdb
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.AssemblyInfo.cs
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.dll
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\refint\BarberProblem.dll
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.pdb
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\BarberProblem.genruntimeconfig.cache
+C:\Users\Professional\Desktop\C#Pro\BarberProblem\obj\Debug\net8.0\ref\BarberProblem.dll
